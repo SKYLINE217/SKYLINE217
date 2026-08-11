@@ -170,11 +170,6 @@
 
 <br/><br/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SKYLINE217&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/SKYLINE217)
-
-<sub>⚠️ These cards are served by free shared Vercel instances (github-readme-stats / streak-stats / activity-graph). They occasionally 503 under load — if one looks broken, right-click → open in new tab to force a refresh, or just wait a few minutes and reload your profile. If it keeps failing, the permanent fix is self-hosting your own copy (one-click "Deploy" button on each project's GitHub repo).</sub>
-
-</div>
 
 <br/>
 
