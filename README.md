@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SKYLINE217&color=39ff14&style=for-the-badge&label=TRANSMISSIONS+RECEIVED)](https://github.com/SKYLINE217)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=SKYLINE217.SKYLINE217&color=39ff14&style=for-the-badge)](https://github.com/SKYLINE217)
 [![GitHub followers](https://img.shields.io/github/followers/SKYLINE217?color=00FF9C&label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/SKYLINE217?tab=followers)
 [![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0D1117)](https://github.com/SKYLINE217)
 
@@ -157,20 +157,22 @@
 
 ## 📡 UPLINK.STATS — GitHub Metrics
 
-<img src="https://github-readme-stats.vercel.app/api?username=SKYLINE217&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=00FF9C&text_color=C9D1D9&ring_color=39D353" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKYLINE217&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" width="42%"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SKYLINE217&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/SKYLINE217)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKYLINE217&layout=compact&theme=dracula&hide_border=true)](https://github.com/SKYLINE217)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SKYLINE217&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=58A6FF&currStreakLabel=39D353" width="65%"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SKYLINE217&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=58A6FF)](https://github.com/SKYLINE217)
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKYLINE217&bg_color=0D1117&color=39D353&line=58A6FF&point=39D353&area=true&area_color=145a32&hide_border=true&custom_title=Neural%20Activity%20Feed%20%F0%9F%92%BE" width="90%"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SKYLINE217&theme=react-dark&hide_border=true&custom_title=Neural%20Activity%20Feed)](https://github.com/SKYLINE217)
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SKYLINE217&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="90%"/>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SKYLINE217&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/SKYLINE217)
+
+<sub>⚠️ These cards are served by free shared Vercel instances (github-readme-stats / streak-stats / activity-graph). They occasionally 503 under load — if one looks broken, right-click → open in new tab to force a refresh, or just wait a few minutes and reload your profile. If it keeps failing, the permanent fix is self-hosting your own copy (one-click "Deploy" button on each project's GitHub repo).</sub>
 
 </div>
 
@@ -180,9 +182,19 @@
 
 ## 🐍 THE.SNAKE — Contribution Graph, Devoured
 
-<img src="https://raw.githubusercontent.com/SKYLINE217/SKYLINE217/output/github-snake.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SKYLINE217/SKYLINE217/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SKYLINE217/SKYLINE217/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/SKYLINE217/SKYLINE217/output/github-snake.svg" width="100%"/>
+</picture>
 
 </div>
+
+> ⚠️ **This is currently broken because the workflow has never run.** I checked — `SKYLINE217/SKYLINE217` has no `output` branch yet, which is what `snake.yml` is supposed to create. Fix it in ~1 minute:
+> 1. Go to your repo → **Actions** tab (you may need to click "I understand my workflows, go ahead and enable them" if Actions were disabled)
+> 2. Click **Generate Snake Animation** in the left sidebar
+> 3. Click **Run workflow** (dropdown on the right) → **Run workflow**
+> 4. Wait ~30–60 seconds for it to finish, then refresh your profile — it creates the `output` branch with `github-snake.svg` automatically. It'll also re-run every 12 hours on its own from now on (per your existing cron schedule).
 
 <br/>
 
@@ -190,10 +202,10 @@
 
 ## 📶 SECURE.CHANNEL — Let's Connect
 
-[![Email](https://img.shields.io/badge/-sumitksahoo217%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:sumitksahoo217@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/sumit-kumar-sahoo)
+[![Email](https://img.shields.io/badge/-sumitkumarkhadanga%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:sumitkumarkhadanga@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/sumit-kumar-khadanga-87797b2b6/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/SKYLINE217)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14)](https://ctf-decoder.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14)](https://cyber-portfolio-1.vercel.app/)
 
 <br/>
 
