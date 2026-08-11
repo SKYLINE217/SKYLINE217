@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9C,100:FF00E5&height=220&section=header&text=SKYLINE217&fontSize=70&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=%3E%20root%40sumit%3A~%23%20whoami&descAlignY=58&descSize=20&descColor=39D353" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Sumit+Kumar+Sahoo+%7C+Cybersecurity+Engineer;B.Tech+%40+NIIT+University;Breaking+Systems+to+Build+Better+Defenses;CTF+Player+%7C+Blockchain+Security+%7C+Forensics" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Sumit+Kumar+Sahoo+%7C+Cybersecurity+Engineer;Breaking+Systems+to+Build+Better+Defenses;CTF+Player+%7C+Blockchain+Security+%7C+Forensics" />
 
 <br/>
 <br/>
