@@ -188,17 +188,7 @@
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/SKYLINE217/SKYLINE217/output/github-snake.svg" width="100%"/>
 </picture>
 
-</div>
 
-> ⚠️ **This is currently broken because the workflow has never run.** I checked — `SKYLINE217/SKYLINE217` has no `output` branch yet, which is what `snake.yml` is supposed to create. Fix it in ~1 minute:
-> 1. Go to your repo → **Actions** tab (you may need to click "I understand my workflows, go ahead and enable them" if Actions were disabled)
-> 2. Click **Generate Snake Animation** in the left sidebar
-> 3. Click **Run workflow** (dropdown on the right) → **Run workflow**
-> 4. Wait ~30–60 seconds for it to finish, then refresh your profile — it creates the `output` branch with `github-snake.svg` automatically. It'll also re-run every 12 hours on its own from now on (per your existing cron schedule).
-
-<br/>
-
-<div align="center">
 
 ## 📶 SECURE.CHANNEL — Let's Connect
 
