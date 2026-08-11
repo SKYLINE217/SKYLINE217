@@ -1,121 +1,210 @@
-<!-- Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117,0a3622,145a32&height=200&section=header&text=Sumit%20Kumar%20Sahoo&fontSize=42&fontColor=39d353&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Security%20Dev&descAlignY=60&descColor=58a6ff" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,0a3622,145a32&height=200&section=header&text=Sumit%20Kumar%20Sahoo&fontSize=42&fontColor=39d353&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Security%20Dev&descAlignY=60&descColor=58a6ff" alt="Sumit Kumar Sahoo — Cybersecurity Engineer" />
-</picture>
-
-<table>
-<tr>
-<td width="340" valign="top">
-
-<!-- ID Badge / Lanyard Panel -->
 <div align="center">
 
-```
-┌─────────────────────────────┐
-│  🔒  SKYLINE217             │
-│  ─────────────────────────  │
-│  Sumit Kumar Sahoo          │
-│  B.Tech Cybersecurity       │
-│  NIIT University, Neemrana  │
-│  ─────────────────────────  │
-│  🎓  Graduating 2026        │
-│  💼  ex-Intern @ Edureka    │
-│  🌐  ctf-decoder.vercel.app │
-│  ─────────────────────────  │
-│  "Hack to Learn,            │
-│   Learn to Defend."         │
-└─────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9C,100:FF00E5&height=220&section=header&text=SKYLINE217&fontSize=70&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=%3E%20root%40sumit%3A~%23%20whoami&descAlignY=58&descSize=20&descColor=39D353" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Sumit+Kumar+Sahoo+%7C+Cybersecurity+Engineer;B.Tech+%40+NIIT+University;Breaking+Systems+to+Build+Better+Defenses;CTF+Player+%7C+Blockchain+Security+%7C+Forensics" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=SKYLINE217&color=39ff14&style=for-the-badge&label=TRANSMISSIONS+RECEIVED)](https://github.com/SKYLINE217)
+[![GitHub followers](https://img.shields.io/github/followers/SKYLINE217?color=00FF9C&label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/SKYLINE217?tab=followers)
+[![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0D1117)](https://github.com/SKYLINE217)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+```yaml
+┌──────────────────────────────────────────────┐
+│  root@skyline217:~$ cat identity.json         │
+├──────────────────────────────────────────────┤
+│  {                                            │
+│    "name"      : "Sumit Kumar Sahoo",         │
+│    "role"      : "Cybersecurity Engineer",    │
+│    "education" : "B.Tech CSE (Cyber Sec.)",   │
+│    "university": "NIIT University, Neemrana", │
+│    "status"    : "Graduating 2026",           │
+│    "cert"      : "Google Cloud Career Prac.", │
+│    "focus"     : ["CTF", "Forensics",         │
+│                    "Blockchain Security",     │
+│                    "Threat Detection"],       │
+│    "quote"     : "Hack to Learn,              │
+│                    Learn to Defend."          │
+│  }                                            │
+└──────────────────────────────────────────────┘
+```
+
 </td>
-<td valign="top">
+<td width="45%" valign="center">
 
-## 🛡️ My Cybersecurity Projects
-
-| 🔐 Project | 💻 Tech | ⭐ |
-|---|---|---|
-| [🧩 CTF Decoder](https://github.com/SKYLINE217/CTF-Decoder) | `Vue 3` `Vite` `Vercel` | 🚀 |
-| [🔗 Blockchain Academic Credential System](https://github.com/SKYLINE217) | `Solidity` `Web3` `Ethereum` | 🔗 |
-| [💳 Real-Time Credit Card Fraud Detection](https://github.com/SKYLINE217/AI-IN-CYBER-SECURITY) | `Python` `ML` `Streamlit` | 🤖 |
-| [🪟 WinVolAuto](https://github.com/SKYLINE217) | `Python` `Volatility` `PowerShell` | 🔍 |
-| [🌐 Portfolio Site](https://github.com/SKYLINE217) | `Vue 3` `Vite` `Vercel` | ✨ |
-
-> 🔒 *"I don't just study cybersecurity, I build it."*
+<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/hacking.gif" width="100%">
 
 </td>
 </tr>
 </table>
 
----
-
-## 🧰 Tech Stack & Tools
+<br/>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## ⚡ SYSTEM.BREACH — About Me
 
 </div>
 
----
+```
+[  0.000001 ]  Booting SKYLINE217 kernel...
+[  0.000042 ]  Loading module: offensive_security.ko       [ OK ]
+[  0.000118 ]  Loading module: digital_forensics.ko        [ OK ]
+[  0.000209 ]  Loading module: blockchain_analysis.ko      [ OK ]
+[  0.000315 ]  Mounting filesystem: /ctf/challenges        [ OK ]
+[  0.000481 ]  Establishing secure link... university/CIC  [ OK ]
+[  0.000620 ]  Access granted. Welcome, operator.
+```
 
-## 📊 GitHub Stats & Graphs
+- 🔭 Building **security tooling** — memory forensics, adaptive CTF engines & fraud-detection graphs
+- 🛡️ Currently exploring **Zero Trust & endpoint security** architectures
+- 🧩 Actively solving **CTF challenges** and competitive security puzzles
+- 🌐 Full-stack builder shipping projects across **security, blockchain & web**
+- 📡 Open to **cybersecurity trainee / SOC / AppSec** opportunities
+- ⚙️ Google Cloud **Career Practitioner** certified
+
+<br/>
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SKYLINE217&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=58a6ff&text_color=c9d1d9&ring_color=39d353)](https://github.com/SKYLINE217)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SKYLINE217&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9)](https://github.com/SKYLINE217)
+## 🛡️ ARSENAL.EXE — Tech Stack & Tools
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SKYLINE217&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=58a6ff&currStreakLabel=39d353)](https://github.com/SKYLINE217)
+<br/>
 
-[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=SKYLINE217&bg_color=0d1117&color=39d353&line=58a6ff&point=39d353&area=true&area_color=145a32&hide_border=true&custom_title=Contribution%20Graph%20🛡️)](https://github.com/SKYLINE217)
+**// LANGUAGES**
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SKYLINE217&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/SKYLINE217)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=39FF14)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=39FF14)
+![Solidity](https://img.shields.io/badge/-Solidity-0D1117?style=for-the-badge&logo=solidity&logoColor=39FF14)
+![Bash](https://img.shields.io/badge/-Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=39FF14)
+
+**// SECURITY & FORENSICS**
+
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=39FF14)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=39FF14)
+![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=39FF14)
+![Nmap](https://img.shields.io/badge/-Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=39FF14)
+![Metasploit](https://img.shields.io/badge/-Volatility-0D1117?style=for-the-badge&logo=windowsterminal&logoColor=39FF14)
+
+**// FRAMEWORKS, CLOUD & INFRA**
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=39FF14)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=39FF14)
+![Neo4j](https://img.shields.io/badge/-Neo4j-0D1117?style=for-the-badge&logo=neo4j&logoColor=39FF14)
+![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=39FF14)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=39FF14)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=39FF14)
+![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14)
 
 </div>
 
----
-
-## 🐍 Watch the snake eat my contributions
+<br/>
 
 <div align="center">
 
-![Contribution snake](https://raw.githubusercontent.com/SKYLINE217/SKYLINE217/output/github-snake.svg)
+## 🧠 EXPLOITS.LOG — Featured Projects
 
 </div>
 
----
+<table align="center" width="100%">
+<tr>
+<th align="left">🔐 Project</th>
+<th align="left">📝 Description</th>
+<th align="left">💻 Stack</th>
+</tr>
+<tr>
+<td><a href="https://github.com/SKYLINE217/CTF-Decoder"><b>🧩 CTF Decoder</b></a></td>
+<td>Adaptive challenge-solving engine using Bayesian priors, Thompson Sampling & FP-Growth pattern mining</td>
+<td><code>Vue 3</code> <code>Vite</code> <code>SQLite</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SKYLINE217/On-Chain-Fraud-Detection-System"><b>🔗 On-Chain Fraud Detection</b></a></td>
+<td>Full-stack AML platform with GNN-based fraud graphs, audited across 27 security findings</td>
+<td><code>FastAPI</code> <code>Neo4j</code> <code>PyTorch Geometric</code> <code>React</code></td>
+</tr>
+<tr>
+<td><b>🪟 WinVolAuto</b></td>
+<td>Automated Windows memory forensics suite built on the Volatility framework</td>
+<td><code>Python</code> <code>Volatility</code> <code>PowerShell</code></td>
+</tr>
+<tr>
+<td><b>💳 Credit Card Fraud Detection</b></td>
+<td>Real-time transaction fraud detection using classical ML pipelines</td>
+<td><code>Python</code> <code>ML</code> <code>Streamlit</code></td>
+</tr>
+<tr>
+<td><b>🚚 TransitOps</b></td>
+<td>Hackathon fleet-management platform with RBAC, live trip tracking & role-based dashboards</td>
+<td><code>Node.js</code> <code>Express</code> <code>MySQL</code></td>
+</tr>
+</table>
 
-## 📫 Let's Connect
+<br/>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-39d353?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitksahoo217@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39d353)](https://github.com/SKYLINE217)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-kumar-sahoo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-145a32?style=for-the-badge&logo=vercel&logoColor=white)](https://ctf-decoder.vercel.app)
+## 📡 UPLINK.STATS — GitHub Metrics
 
-[![Profile views](https://komarev.com/ghpvc/?username=SKYLINE217&color=39d353&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SKYLINE217)
+<img src="https://github-readme-stats.vercel.app/api?username=SKYLINE217&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=00FF9C&text_color=C9D1D9&ring_color=39D353" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKYLINE217&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" width="42%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SKYLINE217&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=58A6FF&currStreakLabel=39D353" width="65%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKYLINE217&bg_color=0D1117&color=39D353&line=58A6FF&point=39D353&area=true&area_color=145a32&hide_border=true&custom_title=Neural%20Activity%20Feed%20%F0%9F%92%BE" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SKYLINE217&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="90%"/>
 
 </div>
 
----
+<br/>
 
-*⭐️ Always learning, always defending.* 🔒
+<div align="center">
 
-<!-- Footer wave -->
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,0a3622,145a32&height=100&section=footer" alt="footer" />
-</picture>
+## 🐍 THE.SNAKE — Contribution Graph, Devoured
+
+<img src="https://raw.githubusercontent.com/SKYLINE217/SKYLINE217/output/github-snake.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📶 SECURE.CHANNEL — Let's Connect
+
+[![Email](https://img.shields.io/badge/-sumitksahoo217%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:sumitksahoo217@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/sumit-kumar-sahoo)
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/SKYLINE217)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14)](https://ctf-decoder.vercel.app)
+
+<br/>
+
+```
+> connection_status: OPEN
+> encryption: AES-256
+> awaiting incoming transmission...
+```
+
+<sub>⭐️ Always learning, always defending. 🔒</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00FF9C,100:0D1117&height=120&section=footer" width="100%"/>
+
+</div>
